@@ -6,7 +6,7 @@ This image is available on the [Docker hub][docker-hub].
 docker pull xigen/archmirror
 ```
 
-Using a modified version of this script - https://git.archlinux.org/infrastructure.git/tree/roles/syncrepo/files/syncrepo-template.sh
+Using a modified version of this script - [https://git.archlinux.org/infrastructure.git/tree/roles/syncrepo/files/syncrepo-template.sh](https://gitlab.archlinux.org/archlinux/infrastructure/-/blob/master/roles/syncrepo/files/syncrepo-template.sh)
 
 
 ## Building
